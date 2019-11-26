@@ -8,7 +8,7 @@ This is an application which allow users to manage day to day sales management. 
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html) JDK at least java8.
 
 ### Installation & Usage
-* You need run .jar file to use this application.
+* You need to run .jar file for use this application.
 
 ### Built With
 
